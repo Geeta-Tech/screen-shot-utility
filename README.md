@@ -67,6 +67,6 @@ python3 downloaded_script.py
 >**Note :** *Ensure you have the necessary permission to save the files in the selected directory.*
 
 ### Contributing
-Contribution are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/HarshYadav152/screen-shot-utility)
+Contribution are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/Geeta-Tech/screen-shot-utility)
 
 ## Author : [Harsh Yadav](https://github.com/HarshYadav152)
